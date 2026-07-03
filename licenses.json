@@ -6,7 +6,8 @@
     "expires": "2026-12-31",
     "allowed_scripts": {
       "v1_hud": true,
-      "v1_inventory": true
+      "v1_inventory": true,
+      "zona_segura": true
     }
   },
   "LIC-LOCALHOST-TEST": {
@@ -16,7 +17,8 @@
     "expires": "2027-01-01",
     "allowed_scripts": {
       "v1_hud": true,
-      "v1_inventory": false
+      "v1_inventory": false,
+      "zona_segura": true
     }
   }
 }
