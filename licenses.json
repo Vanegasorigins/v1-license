@@ -1,0 +1,22 @@
+{
+  "LIC-V1DEV-77X": {
+    "owner": "V1 Development Inc.",
+    "ip": "185.254.12.34",
+    "status": "active",
+    "expires": "2026-12-31",
+    "allowed_scripts": {
+      "v1_hud": true,
+      "v1_inventory": true
+    }
+  },
+  "LIC-LOCALHOST-TEST": {
+    "owner": "Localhost Development",
+    "ip": "127.0.0.1",
+    "status": "active",
+    "expires": "2027-01-01",
+    "allowed_scripts": {
+      "v1_hud": true,
+      "v1_inventory": false
+    }
+  }
+}
